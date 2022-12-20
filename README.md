@@ -5,5 +5,5 @@
 
 Teacnologies--vanilla javascript (cli)command line
 
-Link to Github-
-Link to Output-
+Link to Github-https://github.com/kaxhish/Cli-app
+Link to Output-https://replit.com/@Kaxhishaggarwal/DoYouKnowMe
